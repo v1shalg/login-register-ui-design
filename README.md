@@ -8,8 +8,8 @@ You can check the interactive prototype here:
 ---
 
 ##  Preview
-
-![Login Screen](login-screen.png)  
+![Welxome screen](Welcome Screen.png)
+![Login Screen](.png)  
 ![Signup Screen](signup-screen.png)
 
 ---
