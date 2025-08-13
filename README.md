@@ -9,9 +9,9 @@ You can check the interactive prototype here:
 
 ##  Preview
 ![Welcome screen](WelcomeScreen.png)
-![Login Screen](.png)  
-![Signup Screen](signup-screen.png)
-
+![Register](register.png)  
+![Merchant Signup](merch2.png)
+![Verification](Verification.png)
 ---
 
 ### Tools Used
